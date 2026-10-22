@@ -78,6 +78,11 @@ documentation:
   - results/benchmarks.md
   - docs/jobs/openfoam-heatsink-cfd-job.md
   - LICENSE
+  - docs/architecture.md
+  - docs/development.md
+  - docs/limitations.md
+  - docs/models.md
+  - docs/validation.md
 extensions:
   aipe.field-simulation:
     package: aipe-fieldsim 0.1.0
